@@ -105,6 +105,7 @@
         visibility: hidden;
         align-items: center;
         transition: color 0.2 ease-out;
+        z-index: 2
     }
     .active {
         background-color: #a0a0a0;
